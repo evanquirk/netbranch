@@ -1,3 +1,7 @@
+## Note
+
+A keep file for ideas and websites I want to connect to. Using CMS as well as Typescript and Next.js to create a link in bio type landing page with further functionality and creative allowance. 
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
